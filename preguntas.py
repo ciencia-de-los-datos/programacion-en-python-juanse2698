@@ -358,18 +358,5 @@ def pregunta_12():
         diccionario_resultado[letra] = diccionario_resultado.get(letra, 0) + suma
     return diccionario_resultado
 
-    """
-    Genere un diccionario que contengan como clave la columna 1 y como valor la suma de
-    los valores de la columna 5 sobre todo el archivo.
-
-    Rta/
-    {
-        'A': 177,
-        'B': 187,
-        'C': 114,
-        'D': 136,
-        'E': 324
-    }
-
-    """
+    
    
